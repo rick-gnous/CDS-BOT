@@ -22,7 +22,7 @@
         "steam-user": "^4.27.0",
         "superagent": "^6.1.0",
         "winston": "^3.3.3",
-        "winston-daily-rotate-file": "^4.6.1"
+        "winston-daily-rotate-file": "^5.0.0"
     },
     "devDependencies": {
         "@biomejs/biome": "1.6.3"
